@@ -4,6 +4,13 @@
 
 Currently supports the `0.5.3` (3368 build) alpha client version.
 
+## Features
+
+- Authentication
+- Character enumeration
+- Character creation
+- World login
+
 ## Install
 
 ```sh
