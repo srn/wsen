@@ -1,9 +1,10 @@
 {
   "name": "wsen",
   "version": "1.0.0",
-  "description": "",
+  "description": "World of Warcraft Server Emulation in node.js",
   "main": "index.js",
   "scripts": {
+    "start": "node index",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
