@@ -6,6 +6,7 @@ Currently supports the `0.5.3` (3368 build) alpha client version.
 
 ## Features
 
+- Realm listing
 - Authentication
 - Character enumeration
 - Character creation
